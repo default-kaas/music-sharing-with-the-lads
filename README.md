@@ -11,3 +11,8 @@ npm i
 ```bash
 npm run dev
 ```
+Go to this addres in your browser
+```
+http://localhost:3000/
+```
+If this doesn't work check your terminal after running ```npm run dev```
