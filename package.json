@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image-edge": "^1.0.0-28008586.381b906",
+    "@nuxtjs/tailwindcss": "^6.6.5",
+    "nuxt": "^3.3.3",
+    "nuxt-icon": "^0.3.3",
+    "nuxt-lodash": "^2.4.1"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.8",
+    "pinia": "^2.0.34",
+    "vue": "^3.2.47"
+  }
+}

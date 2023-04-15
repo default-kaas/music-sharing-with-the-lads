@@ -1,0 +1,212 @@
+{
+  "albums": [
+    {
+      "title": "Siamese Dream",
+      "artist": "The smashing pumpkings",
+      "image": "/images/albums/Siamese-Dream-The-Smashing-Pumpkings.png",
+      "genere": "alternative",
+      "sub_generes": ["alt rock", "grunge"],
+      "release": "27-06-1993",
+      "courious_link": "",
+      "platforms": [
+        {
+          "name":"spotify",
+          "link":"https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+        },
+        {
+          "name":"youtube",
+          "link":"https://www.youtube.com/watch?v=VbrfXDFuzu0&list=PL0D8442F129C22C6E"
+        }
+      ],
+      "ratings": {
+        "critics": [{
+          "id": "barrett-puchta",
+          "rating": 80
+        }],
+        "you": {
+          "id": "",
+          "rating": 75
+        },
+        "friends": [{
+          "id": "barrett-puchta",
+          "rating": 80
+        },{
+          "id": "fredrick-rygalski",
+          "rating": 85
+        },{
+          "id": "alvera-rarey",
+          "rating": 55
+        }],
+        "similar": [{
+          "id": "alvera-rarey",
+          "rating": 55
+        }]
+      }
+    },
+    {
+      "title": "Illmatic",
+      "artist": "Nas",
+      "image": "/images/albums/Nas-Illmatic.png",
+      "genre": "Rap",
+      "sub_generes": ["Hip hop", "Jazz rap"],
+      "release": "19-04-1993",
+      "courious_link": "",
+      "platforms": [
+        {
+          "name":"spotify",
+          "link":"https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1?autoplay=true"
+        },
+        {
+          "name":"youtube",
+          "link":"https://www.youtube.com/watch?v=-aB6bfucM04"
+        }
+      ],
+      "ratings": {
+        "critics": [{
+          "id": "barrett-puchta",
+          "rating": 65
+        }],
+        "you": {
+          "id": "",
+          "rating": 75
+        },
+        "friends": [{
+          "id": "barrett-puchta",
+          "rating": 65
+        }],
+        "similar": [{
+          "id": "alvera-rarey",
+          "rating": 55
+        }]
+      }
+    },
+    {
+      "title": "Substrata",
+      "artist": "Biosphere",
+      "image": "/images/albums/Biosphere-substrata.png",
+      "genre": "Electronica",
+      "sub_generes": ["Ambient"],
+      "release": "21-10-1997",
+      "courious_link": "",
+      "platforms": [
+        {
+          "name":"spotify",
+          "link":"https://open.spotify.com/album/6jeIzUv8Bff4fFElZwwA4B"
+        },
+        {
+          "name":"youtube",
+          "link":"https://www.youtube.com/watch?v=xL3MBMim36E"
+        }
+      ],
+      "ratings": {
+        "critics": [{
+          "id": "barrett-puchta",
+          "rating": 90
+        }],
+        "you": {
+          "id": "",
+          "rating": 75
+        },
+        "friends": [{
+          "id": "fredrick-rygalski",
+          "rating": 85
+        },{
+          "id": "alvera-rarey",
+          "rating": 55
+        }],
+        "similar": [{
+          "id": "alvera-rarey",
+          "rating": 55
+        }]
+      }
+    },
+    {
+      "title": "Souvlaki",
+      "artist": "Slowdive",
+      "image": "/images/albums/Slowdive-souvlaki.png",
+      "genre": "Psychedelic",
+      "sub_generes": ["Shoegaze, dreampop"],
+      "release": "17-05-1993",
+      "courious_link": "",
+      "platforms": [
+        {
+          "name":"spotify",
+          "link":"https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z?autoplay=true"
+        },
+        {
+          "name":"youtube",
+          "link":"https://www.youtube.com/watch?v=5D2u3ASuelQ&list=PLDZmtI4GBWqwLV4dbdQuSEEL3r7KX1QFt"
+        }
+      ],
+      "ratings": {
+        "critics": [{
+          "id": "barrett-puchta",
+          "rating": 65
+        }],
+        "you": {
+          "id": "",
+          "rating": 75
+        },
+        "friends": [{
+          
+          "id": "barrett-puchta",
+          "rating": 65
+        },
+        {
+          
+          "id": "alvera-rarey",
+          "rating": 55
+        }],
+        "similar": [{
+          "id": "alvera-rarey",
+          "rating": 55
+        }]
+      }
+    },
+    {
+      "title": "Laughing stock",
+      "artist": "Talk talk",
+      "image": "/images/albums/Talktalk-laughingstock.png",
+      "genre": "Art",
+      "sub_generes": ["Post rock"],
+      "release": "16-09-1991",
+      "courious_link": "",
+      "platforms": [
+        {
+          "name":"spotify",
+          "link":"https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79?autoplay=true"
+        },
+        {
+          "name":"youtube",
+          "link":"https://www.youtube.com/watch?v=ARehbaKm4U0"
+        }
+      ],
+      "ratings": {
+        "critics": [{
+          "id": "barrett-puchta",
+          "rating": 71
+        }],
+        "you": {
+          "id": "",
+          "rating": 75
+        },
+        "friends": [{
+          "id": "barrett-puchta",
+          "rating": 71
+        },{
+          "id": "fredrick-rygalski",
+          "rating": 85
+        }],
+        "similar": [{
+          "id": "alvera-rarey",
+          "rating": 55
+        }]
+      }
+    }
+  ],
+  "friends" :[
+    {"id": "barrett-puchta"},
+    {"id": "fredrick-rygalski"},
+    {"id": "alvera-rarey"}
+  ]
+}
